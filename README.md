@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=RECT&color=0:000000,50:EB0046,100:000000&width=100%&height=80&section=header&text=-%20Bem%20Vindo%20-&fontSize=35&fontColor=FFFFFF&animation=twinkling)
+# Olá!! Sou a Raquel ;)
+##  👩‍💻 Sobre Mim
+- 🌆 Sou de SP - Brazil
+- 📚 Atualmente aprendendo Python
+- 🥷🏻 No meu tempo livre gosto de assistir Animes e ler livros
+- ♀️ Pronomes: Ela/Dela
+- 📩 raquelmota.ps@gmail.com
 
-<!--
-**raquelmps/raquelmps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Linguagens & Ferramentas
+![skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas GitHub
